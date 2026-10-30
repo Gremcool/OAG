@@ -1,0 +1,7 @@
+streamlit
+pandas
+python-docx
+htmldocx
+beautifulsoup4
+streamlit-quill
+openpyxl
